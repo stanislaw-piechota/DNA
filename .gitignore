@@ -1,0 +1,5 @@
+__pychache__
+build
+dist
+main.spec
+word-test.py
